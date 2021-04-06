@@ -8,6 +8,3 @@ This project is driven by the necessity to create an automated document classifi
 labour costs in archiving the documents.
 
 _Techniques used_: NLP, clustering with k-Means, principal component analysis, EDA, data visualisation, feature engineering
-
-:mask:
-:blush:
